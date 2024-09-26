@@ -10,3 +10,8 @@ sources:
       - name: dining_options_seed
       - name: promotions_seed
       - name: sales_fact_seed
+      
+ models:
+  fufu_republic_project:
+    staging:
+      +materialized: view
