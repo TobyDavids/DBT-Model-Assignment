@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,address,loyalty_status,customer_segment
+22320,Anthony,Martinez,"146 Jon Brooks
+Nashtown, OR 71093",Silver,Business
+83283,Kevin,Grant,"224 Holly Dam
+Brooksport, IA 70650",Bronze,Business
+75689,Rita,Stewart,"11673 Jeff Mountains
+Nathanport, PW 48303",Silver,Business
+20245,Gail,Beck,"65781 Cook Parkways Apt. 079
+Colonberg, PW 90451",Bronze,Business
+75748,Lisa,Hale,"89625 Garza Underpass
+Jensentown, OH 08448",Gold,Regular
+87636,Andrea,Case,"7817 Thomas Union
+South Melissa, DC 22472",Gold,VIP
+85663,Jose,Salas,"097 Rice Flats
+Dustinville, UT 22690",Silver,VIP
+7711,Michael,Oconnor,"9809 Mcknight Inlet Suite 755
+Hunthaven, FL 61461",Gold,Business
+66590,Kristine,Adams,"490 Janet Island
+North Allenborough, KY 95138",Silver,VIP
+11071,Ashley,Lopez,"46616 Michael Canyon
+Allenview, MS 10272",Gold,Business
+50283,Jasmine,Taylor,"311 Rogers Walks Apt. 290
+West Josephville, TX 49972",Bronze,Regular
+88253,Amy,Murillo,"5931 Colon Coves Suite 453
+Michaelchester, NJ 41715",Silver,VIP
+60127,Christopher,Rose,"47922 Jones Motorway Apt. 846
+West Dorothyberg, MN 35994",Silver,Business
+9777,Ryan,Wilson,"59542 Christine Corners
+Davidton, GU 45392",Bronze,VIP
+48737,Larry,Calderon,"8012 Schroeder Plaza
+Blairmouth, CT 83054",Gold,Regular
+7650,Charles,Lin,"4769 Stephanie Pine
+Jessicahaven, IL 97480",Gold,Business
+44628,Mike,Fisher,"15554 Lyons Well
+South Michelle, NC 39075",Gold,VIP
+56631,Gina,Williams,"79838 Davis Trail
+Carterbury, SC 70081",Bronze,Business
+37783,Terri,Torres,"1452 Smith Lock
+Bondberg, NE 68103",Silver,Regular
+27753,Tyler,Smith,"513 Bell Course Apt. 809
+South Benjaminton, ND 87625",Bronze,Business
+29115,Maria,Short,"946 Elizabeth Divide Apt. 119
+Dakotaside, MP 27124",Gold,VIP
+84697,Mark,Stewart,"23623 Robin Walks
+South Alyssaborough, PA 23753",Bronze,Regular
+86159,Courtney,Hernandez,"5192 Lisa Mountains Apt. 307
+West Marybury, MI 18680",Silver,Business
+98017,Ronald,Harris,"Unit 8954 Box 2395
+DPO AE 44276",Silver,Business
+24504,Jeff,Hernandez,"USNV Santos
+FPO AE 37593",Gold,VIP
+60097,Billy,Lynch,"42590 Nicole Estate
+Kingmouth, AS 82076",Gold,Business
+43582,John,Thompson,"415 Yesenia Gardens
+Lake Anne, NV 89581",Silver,Business
+20047,Thomas,Mason,"Unit 2943 Box 4022
+DPO AA 96551",Bronze,Regular
+40889,Sandra,Rice,"201 Victoria Road
+Scottmouth, NJ 90997",Bronze,Regular
+73308,Virginia,Whitaker,"40896 Reynolds Shoals Apt. 070
+Simonfort, IL 92365",Silver,Business
+54405,Daniel,Price,"27324 Velazquez Motorway
+West Jason, PW 01083",Bronze,Regular
+39335,Amber,Wang,"81419 Clark Trafficway Suite 929
+West Ashleyberg, DC 78114",Bronze,Business
+10134,Eric,Webb,"0277 Mark Path Apt. 171
+Amychester, FM 24049",Gold,Business
+56087,Benjamin,Rocha,"USNS Becker
+FPO AP 89679",Silver,Regular
+80078,Linda,Roberts,"4774 Lee Extension
+North Danielle, OR 86936",Gold,VIP
+2091,Hector,Gray,"26791 Mccarthy Tunnel
+East Mark, FL 92032",Gold,Business
+49084,Alicia,Price,"USNV Henry
+FPO AE 48930",Silver,Business
+54006,Jennifer,Sherman,"0420 Hall Prairie Suite 878
+Rachelland, GU 40068",Gold,VIP
+86517,Joseph,Aguilar,"8045 Karen Port Apt. 395
+Jillianview, AS 64806",Silver,Business
+34874,Erik,Spears,"2030 Katie Springs Suite 107
+North Matthew, LA 08405",Gold,Business
+58887,Brittany,George,"0975 William View
+West Benjamin, PA 43226",Silver,VIP
+33612,Douglas,Parker,"603 Cheryl Crescent Suite 502
+Woodwardbury, PW 91933",Gold,Business
+44361,Cody,Davis,"87962 Long Cliff Suite 532
+Chambersland, CT 95019",Gold,VIP
+71780,David,Baker,"PSC 6193, Box 9930
+APO AA 33787",Bronze,Regular
+2910,George,Villegas,"224 Elizabeth Inlet Apt. 363
+West Rebeccaberg, MN 13428",Bronze,Regular
+65995,Kenneth,Miller,"633 Meyer Flat Apt. 937
+Nicholsberg, WY 52413",Silver,VIP
+74189,Michael,Mills,"89421 Hill Plains
+Vazquezhaven, GU 76455",Bronze,VIP
+88988,Sean,Castillo,"77437 Patty Terrace Suite 641
+East Danielle, FL 80603",Gold,Regular
+99360,Aaron,Sims,"584 Jones Islands
+North Kerriville, HI 16711",Silver,Business
+99048,Jean,Gomez,"822 Jones Parkways
+Kylieborough, AZ 59406",Bronze,VIP
+70396,Frank,Ramos,"65756 Jordan Key
+Port Ashley, TX 01014",Gold,Regular
+78941,Shelby,Osborne,"70765 Ortiz Summit
+Lake Joshuaside, ME 82678",Bronze,Regular
+16208,Patricia,Ayala,"071 Melissa Burg
+Taylorville, IA 71912",Silver,Business
+92614,Samantha,Oliver,"38060 Jackson Dam Apt. 413
+Sarahaven, ID 31554",Bronze,VIP
+27699,Laura,Swanson,"77138 Jason Throughway
+East Anthony, MN 76398",Silver,VIP
+60101,Kimberly,Alexander,"PSC 3384, Box 0175
+APO AE 53043",Bronze,VIP
+77995,Spencer,Ferguson,"0659 Gina Well Suite 339
+West Kevinborough, DC 74082",Silver,Business
+55252,Anna,Clarke,"6783 Lee Crest Suite 927
+Port Joechester, SD 93305",Gold,VIP
+96381,Timothy,Ramirez,"662 Leonard Plains
+North Logan, MS 80453",Gold,Regular
+85806,Leslie,Robinson,"2338 Jones Highway
+Washingtonton, SC 51536",Gold,Business
+92175,Eugene,Brown,"1866 Scott Wells
+West Aimee, TN 44952",Bronze,Regular
+17044,Devin,Jones,"Unit 3355 Box 1474
+DPO AE 82666",Silver,VIP
+31984,Joseph,Stephens,"17416 Jennings Crossroad Apt. 719
+New Masonview, CO 54014",Silver,Regular
+60416,Gary,Richardson,"81016 Alicia Lane Suite 958
+West Victoria, NH 63543",Bronze,VIP
+43617,Angelica,Robles,"054 Hannah Skyway Suite 284
+Gonzalesville, NH 54072",Bronze,VIP
+26064,Patrick,Thompson,"87617 Morris Pike
+East Regina, KS 64968",Bronze,Regular
+7112,Andrew,Williams,"83375 Elizabeth Shoals
+Newtonton, NH 65715",Silver,Regular
+72624,Holly,Poole,"4121 Christopher Pines
+Jennahaven, PA 07522",Silver,Business
+32396,Christopher,Hernandez,"6969 Clark Road Apt. 677
+Laurenton, AZ 65407",Bronze,VIP
+79114,Marcus,Oliver,"4424 Jillian Parks
+West Jack, MP 40536",Gold,VIP
+31654,Jonathan,Davis,"168 Jose Trail Suite 667
+West Jenniferfurt, KY 36995",Gold,VIP
+98241,Charles,Baker,"70045 Hayes Ville Suite 441
+North Jessicahaven, CO 07701",Bronze,Regular
+47763,Crystal,Navarro,"466 Nichols Fork
+Michelleville, AZ 31767",Silver,VIP
+86390,Joseph,Hardy,"92725 Duncan Roads
+Travishaven, MD 90145",Bronze,Business
+85120,Nicole,Hernandez,"497 Harris Cliff Apt. 658
+East Michael, GU 78127",Bronze,VIP
+725,Michael,Martinez,"34934 Perkins Forges Suite 807
+New Matthew, PA 32688",Bronze,VIP
+53942,Jessica,Dunn,"9114 Matthew Trail Suite 036
+North Sarahchester, GU 28141",Bronze,Business
+86202,Timothy,King,"3551 Bennett Pines
+New Jessica, TN 62278",Gold,VIP
+20257,Lori,Ortiz,"016 James Junctions Apt. 021
+Brentside, CT 48245",Bronze,VIP
+351,Michael,Cochran,"Unit 5704 Box 7853
+DPO AA 86774",Gold,Regular
+69029,Isabel,Johnson,"6316 Michael Spur
+Joshuaview, PW 01859",Silver,VIP
+20181,Emily,Montoya,"USNV Garcia
+FPO AA 22284",Gold,Regular
+25200,Michael,Drake,"383 Wayne Wall
+Bradleyfort, VI 12115",Silver,Business
+84861,Katherine,Martinez,"851 Philip Streets
+North Rodney, DC 05836",Gold,VIP
+34347,Nicholas,Cardenas,"32420 Cynthia Motorway
+Lake Michelle, IA 41459",Silver,VIP
+33772,Peter,Bell,"PSC 7910, Box 0657
+APO AE 80241",Bronze,Business
+2092,Robert,Fields,"PSC 8907, Box 2556
+APO AE 13559",Bronze,Business
+71554,Jennifer,Burke,"5102 Stevens Forest
+South Wandashire, LA 13771",Gold,VIP
+89460,John,Sanchez,"471 Valdez Club
+Lake Christopherview, VA 40754",Gold,Regular
+89755,Linda,Rosario,"66251 Mccarthy Field Apt. 508
+Rogersland, ME 25175",Silver,Regular
+99766,Samantha,Gibson,"31020 Ruiz Brook
+West Robin, PR 82013",Gold,VIP
+6871,Rita,Hudson,"83814 Adam Plain
+Trevorstad, MD 26093",Bronze,Business
+2250,Maria,Taylor,"USNS Mueller
+FPO AE 76957",Gold,VIP
+62091,Stephen,Rhodes,"9930 Sophia Overpass Suite 115
+Aliciahaven, ND 05040",Bronze,Business
+94571,Bethany,Brooks,"64250 Michael Fork Apt. 837
+Angelabury, SD 66458",Bronze,VIP
+69218,Ryan,Johnson,"8467 Beltran Ports
+West Danny, SD 18314",Bronze,Regular
+15171,Andrew,Wilkerson,"549 Rios Brooks Apt. 825
+Matthewburgh, TX 07771",Bronze,Regular
+21934,Gail,Alvarado,"1097 Jennings View Suite 029
+Taylorfort, CA 21422",Silver,VIP
+74749,Kurt,Foley,"348 Ross Ridge Suite 189
+Fordshire, NE 50457",Silver,VIP
+18752,Angela,Garcia,"USS Freeman
+FPO AA 62998",Silver,Regular

@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: fufu_republic
+    tables:
+      - name: customers_seed
+      - name: products_seed
+      - name: payments_seed
+      - name: locations_seed
+      - name: dining_options_seed
+      - name: promotions_seed
+      - name: sales_fact_seed
